@@ -12,6 +12,9 @@ const ViewHome = () => {
     height="100%"
     />
       </picture>
+      <div>
+        <p>hola repaso</p>
+      </div>
       
      
 
