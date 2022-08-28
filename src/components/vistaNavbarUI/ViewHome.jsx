@@ -14,6 +14,8 @@ const ViewHome = () => {
       </picture>
       <div>
         <p>hola repaso</p>
+        <p>hola repaso</p>
+        <p>hola repaso</p>
       </div>
       
      
