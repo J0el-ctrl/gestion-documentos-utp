@@ -20,3 +20,5 @@ const firebaseConfig = {
   const functions=firebase.functions()
   const storage=firebase.storage()
    export {db,auth,firebase,functions,storage}
+
+   //testeando subidas nuevas
