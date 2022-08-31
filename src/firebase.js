@@ -22,3 +22,4 @@ const firebaseConfig = {
    export {db,auth,firebase,functions,storage}
 
    //testeando subidas nuevas
+   //git pages
