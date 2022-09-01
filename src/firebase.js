@@ -23,4 +23,4 @@ const firebaseConfig = {
 
    //testeando subidas nuevas
    //git pages
-   //testeando clonacion con fe ignorado
+   //testeando clonacion con fe ignorado ahora siy
