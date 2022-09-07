@@ -2,7 +2,9 @@ import React from 'react'
 
 const rama03 = () => {
   return (
-    <div>rama03s</div>
+    <div>rama03s
+      <p>rama hola</p>
+    </div>
   )
 }
 
